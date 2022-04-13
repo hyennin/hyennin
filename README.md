@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C98AFF&height=200&section=header&text=Hello!&fontSize=60&fontAlignY=40&fontColor=FFFFFF)
 
-<a href="https://github.com/Hyemin-12"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
- <a href="https://www.instagram.com/hyemin.05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://github.com/Hyemin-12"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyemin-12&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E6E6E6&title=GitHub&edge_flat=false)"/></a>
+ <a href="https://www.instagram.com/hyemin.05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"&edge_flat=false/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact)](https://github.com/Hyemin-12/github-readme-stats)
 
