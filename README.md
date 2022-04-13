@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi~!&fontSize=70&fontAlignY=40&fontColor=C98AFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C98AFF&height=200&section=header&text=Hi~!&fontSize=70&fontAlignY=40&fontColor=FFFFFF)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact)](https://github.com/Hyemin-12/github-readme-stats)
 
