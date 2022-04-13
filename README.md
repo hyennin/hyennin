@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact)](https://github.com/Hyemin-12/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyemin-12&show_icons=true&theme=gradient&color=C98AFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyemin-12&show_icons=true&Gradient=true)
 
 <!--
 **Hyemin-12/Hyemin-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
