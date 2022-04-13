@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C98AFF&height=200&section=header&text=Hello!&fontSize=60&fontAlignY=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C98AFF&height=200&section=header&text=Hyemin Choi&fontSize=60&fontAlignY=300&fontColor=FFFFFF)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyemin-12&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E6E6E6&title=GitHub&edge_flat=false)
  <a href="https://www.instagram.com/hyemin.05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
