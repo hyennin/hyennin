@@ -5,9 +5,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact&title_color=8e269f&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)](https://github.com/Hyemin-12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact&title_color=8e5a9f&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)](https://github.com/Hyemin-12/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyemin-12&show_icons=true&title_color=8e269f&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyemin-12&show_icons=true&title_color=8e5a9f&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)
 
 <!--
 **Hyemin-12/Hyemin-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
