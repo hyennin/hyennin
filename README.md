@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C98AFF&height=200&section=header&text=Hello!&fontSize=60&fontAlignY=40&fontColor=FFFFFF)
 
- <a href="https://www.instagram.com/hyemin.05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"&edge-flat=false"/></a>
+ <a href="https://www.instagram.com/hyemin.05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"&edge-flat=false"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact)](https://github.com/Hyemin-12/github-readme-stats)
 
