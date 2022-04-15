@@ -1,5 +1,7 @@
 <div align="center">
  <h1>Hyemin Choi</h1>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=89449F&center=true&width=700&lines=Welcome+to+my+GitHub!;Everything+in+your+world+is+created+by+what+you+think.)](https://git.io/typing-svg)
 </div>
 <div align="center">
 <h2>info🌱</h2>
