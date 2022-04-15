@@ -21,6 +21,6 @@
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>
 
 ## stats📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact&title_color=c06bbe&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)](https://github.com/Hyemin-12/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyemin-12&layout=compact&title_color=c06bbe&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyemin-12&show_icons=true&title_color=c06bbe&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)
