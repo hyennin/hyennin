@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/>
  </div>
 <div align="center">
 <h2>tools🔧</h2>
