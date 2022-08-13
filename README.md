@@ -10,7 +10,7 @@
 <div align="center">
  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyemin-12&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E6E6E6&title=GitHub&edge_flat=false)
- <a href="https://www.instagram.com/hyemin.05"><img src="https://img.shields.io/badge/Instagram-c06bbe?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
+ <a href="https://www.instagram.com/chm.__proto__"><img src="https://img.shields.io/badge/Instagram-c06bbe?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@chm0202"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=FFFFFF"/></a>
 </div>
 <div align="center">
