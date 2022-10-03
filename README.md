@@ -29,10 +29,9 @@
  </div>
 <div align="center">
  
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=Visual Studio&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SublimeText-FF9800?style=flat&logo=Sublime Text&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>
 </div>
 <div align="center">
