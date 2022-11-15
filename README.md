@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=926ecc&height=300&section=header&text=Hyemin%20Choi&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=926ecc&height=300&section=header&text=Hyemin%20Choi&fontSize=90&fontColor=ffffff)
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=89449F&center=true&width=700&lines=Welcome+to+my+GitHub!;Everything+in+your+world+is+created+by+what+you+think.)](https://git.io/typing-svg)
 </div>
