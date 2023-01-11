@@ -38,8 +38,6 @@
 <h2>stats📊</h2>
  </div>
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyennin&layout=compact&title_color=c06bbe&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)
-
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyennin&show_icons=true&title_color=c06bbe&text_color=FFFFFF&icon_color=f6e06a&bg_color=000000)
 </div>
