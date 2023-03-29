@@ -9,8 +9,8 @@
  </div>
 <div align="center">
  
-<a href="https://www.instagram.com/hye.nnin/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/Instagram-c06bbe?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="https://velog.io/@chm0202" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/hye.nnin/?theme=dark"><img src="https://img.shields.io/badge/Instagram-c06bbe?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@chm0202"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=FFFFFF"/></a>
 </div>
 <div align="center">
 <h2>skills💻</h2>
