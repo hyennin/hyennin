@@ -9,7 +9,6 @@
  </div>
 <div align="center">
  
-<a href="https://www.instagram.com/hye.nnin/?theme=dark"><img src="https://img.shields.io/badge/Instagram-c06bbe?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@chm0202"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=FFFFFF"/></a>
 </div>
 <div align="center">
@@ -17,8 +16,7 @@
  </div>
 <div align="center">
  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/> 
@@ -31,8 +29,8 @@
 <div align="center">
  
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>
+ <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=Visual Studio&logoColor=FFFFFF"/>
 </div>
 <div align="center">
